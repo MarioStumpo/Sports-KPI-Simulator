@@ -1,6 +1,6 @@
 # Sports KPI Simulator
 
-## How to run (students)
+## How to run
 
 ### macOS
 1. Unzip `sim_data_app-macOS.zip`.
